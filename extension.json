@@ -1,0 +1,13 @@
+{
+  "name": "test_extension_please_ignore",
+  "apiVersion": "1.0.0",
+  "author": "shy coder",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "test_extension_please_ignore": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
