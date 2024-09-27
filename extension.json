@@ -2,7 +2,7 @@
   "name": "test_extension_please_ignore",
   "apiVersion": "1.0.0",
   "author": "Mark Garrison",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test extension please ignore",
   "extensions": {
     "test_extension_please_ignore": {
